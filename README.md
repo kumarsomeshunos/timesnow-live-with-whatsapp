@@ -63,6 +63,8 @@ playwright install
 python script.py
 ```
 
+> **NOTE:** You need to be logged in to [Whatsapp Web](https://web.whatsapp.com) before running the script.
+
 ## Configuration
 
 Modify these constants in the script for your specific needs:
